@@ -1,0 +1,6 @@
+include ':plugin4'
+include ':plugin3'
+include ':plugin2'
+include ':plugin1'
+include ':app'
+rootProject.name = "DemoApp"
