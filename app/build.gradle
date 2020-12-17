@@ -37,4 +37,6 @@ dependencies {
 implementation project(':plugin1')
 
 implementation project(':plugin2')
+
+implementation project(':plugin3')
 androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0' }
